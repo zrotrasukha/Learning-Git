@@ -2,3 +2,7 @@ this
 is
 root
 file
+root
+is
+absorbing
+water
